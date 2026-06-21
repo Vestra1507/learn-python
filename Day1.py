@@ -150,8 +150,8 @@
 #Match statement
 service = input("service : ")
 match service:
-    case "1":print("ถอนเงิน")
-    case "2":print("ฝากเงิน")
+    case "1":print("ถอนเงิน1")
+    case "2":print("ฝากเงิน1")
     case "3":print("ยอดเงินคงเหลือ")
     case "":print("ผิดพลาด") 
 
