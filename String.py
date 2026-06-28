@@ -68,7 +68,7 @@
 # text = " python ".strip()
 # print(len(text))
 
-text="ฉันขื่อ {0} อายุ {1} ปี".format("พี",23)
-print(text)
+# text="ฉันขื่อ {0} อายุ {1} ปี".format("พี",23)
+# print(text)
 
 

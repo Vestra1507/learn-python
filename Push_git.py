@@ -6,3 +6,6 @@
 # pull code form githib
 # git pull
 # test git pull
+
+#use git restore filename.py
+#use git pull after restore
