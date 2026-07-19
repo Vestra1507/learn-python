@@ -29,3 +29,14 @@ import numpy as np
 # print(dict)
 
 
+# การเข้าถึงข้อมูลใน Series
+data = [10,20,30,40]
+a = pd.Series(data)
+
+#print(a[2])
+
+colors = {"red":"แดง","yellow":"เหลือง"}
+b = pd.Series(colors)
+
+print(b["yellow"])
+
